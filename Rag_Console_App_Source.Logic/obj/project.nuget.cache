@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9VSQxZumoUI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Komal Gupta\\source\\repos\\Rag_Console_App\\Rag_Console_App_Source.Logic\\Rag_Console_App_Source.Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Komal Gupta\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Komal Gupta\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.12\\microsoft.extensions.logging.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Komal Gupta\\.nuget\\packages\\microsoft.extensions.options\\10.0.12\\microsoft.extensions.options.10.0.12.nupkg.sha512",
+    "C:\\Users\\Komal Gupta\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.12\\microsoft.extensions.primitives.10.0.12.nupkg.sha512",
+    "C:\\Users\\Komal Gupta\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

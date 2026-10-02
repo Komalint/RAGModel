@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TgPDgUhSrtQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Komal Gupta\\source\\repos\\Rag_Console_App\\Rag_Console_App_Source.Infrastructure\\Rag_Console_App_Source.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Komal Gupta\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Komal Gupta\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.12\\microsoft.extensions.logging.abstractions.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

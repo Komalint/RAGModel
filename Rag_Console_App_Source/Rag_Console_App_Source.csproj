@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Rag_Console_App_Source.Logic\Rag_Console_App_Source.Logic.csproj" />
+    <ProjectReference Include="..\Rag_Console_App_Source.Repository\Rag_Console_App_Source.Repository.csproj" />
+    <ProjectReference Include="..\Rag_Console_App_Source.Proxy\Rag_Console_App_Source.Proxy.csproj" />
+    <ProjectReference Include="..\Rag_Console_App_Source.Infrastructure\Rag_Console_App_Source.Infrastructure.csproj" />
+    <ProjectReference Include="..\Rag_Console_App_Source.Domain\Rag_Console_App_Source.Domain.csproj" />
+    <ProjectReference Include="..\Rag_Console_App_Source.Foundation\Rag_Console_App_Source.Foundation.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.12" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Rag_Console_App_Source.Foundation/1.0.0": {
+        "dependencies": {
+          "Rag_Console_App_Source.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Rag_Console_App_Source.Foundation.dll": {}
+        }
+      },
+      "Rag_Console_App_Source.Domain/1.0.0": {
+        "runtime": {
+          "Rag_Console_App_Source.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rag_Console_App_Source.Foundation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rag_Console_App_Source.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

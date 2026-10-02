@@ -1,0 +1,15 @@
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Infrastructure\bin\Debug\net10.0\Rag_Console_App_Source.Infrastructure.deps.json
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Infrastructure\bin\Debug\net10.0\Rag_Console_App_Source.Infrastructure.dll
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Infrastructure\bin\Debug\net10.0\Rag_Console_App_Source.Infrastructure.pdb
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Infrastructure\bin\Debug\net10.0\Rag_Console_App_Source.Domain.dll
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Infrastructure\bin\Debug\net10.0\Rag_Console_App_Source.Domain.pdb
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Infrastructure\obj\Debug\net10.0\Rag_Console_App_Source.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Infrastructure\obj\Debug\net10.0\Rag_Console_App_Source.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Infrastructure\obj\Debug\net10.0\Rag_Console_App_Source.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Infrastructure\obj\Debug\net10.0\Rag_Console_App_Source.Infrastructure.AssemblyInfo.cs
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Infrastructure\obj\Debug\net10.0\Rag_Console_App_Source.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Infrastructure\obj\Debug\net10.0\Rag_Cons.B5885F5F.Up2Date
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Infrastructure\obj\Debug\net10.0\Rag_Console_App_Source.Infrastructure.dll
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Infrastructure\obj\Debug\net10.0\refint\Rag_Console_App_Source.Infrastructure.dll
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Infrastructure\obj\Debug\net10.0\Rag_Console_App_Source.Infrastructure.pdb
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Infrastructure\obj\Debug\net10.0\ref\Rag_Console_App_Source.Infrastructure.dll

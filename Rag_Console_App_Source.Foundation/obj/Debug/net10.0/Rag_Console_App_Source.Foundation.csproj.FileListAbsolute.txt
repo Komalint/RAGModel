@@ -1,0 +1,15 @@
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Foundation\bin\Debug\net10.0\Rag_Console_App_Source.Foundation.deps.json
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Foundation\bin\Debug\net10.0\Rag_Console_App_Source.Foundation.dll
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Foundation\bin\Debug\net10.0\Rag_Console_App_Source.Foundation.pdb
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Foundation\bin\Debug\net10.0\Rag_Console_App_Source.Domain.dll
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Foundation\bin\Debug\net10.0\Rag_Console_App_Source.Domain.pdb
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Foundation\obj\Debug\net10.0\Rag_Console_App_Source.Foundation.csproj.AssemblyReference.cache
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Foundation\obj\Debug\net10.0\Rag_Console_App_Source.Foundation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Foundation\obj\Debug\net10.0\Rag_Console_App_Source.Foundation.AssemblyInfoInputs.cache
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Foundation\obj\Debug\net10.0\Rag_Console_App_Source.Foundation.AssemblyInfo.cs
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Foundation\obj\Debug\net10.0\Rag_Console_App_Source.Foundation.csproj.CoreCompileInputs.cache
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Foundation\obj\Debug\net10.0\Rag_Cons.D1D21D41.Up2Date
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Foundation\obj\Debug\net10.0\Rag_Console_App_Source.Foundation.dll
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Foundation\obj\Debug\net10.0\refint\Rag_Console_App_Source.Foundation.dll
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Foundation\obj\Debug\net10.0\Rag_Console_App_Source.Foundation.pdb
+C:\Users\Komal Gupta\source\repos\Rag_Console_App\Rag_Console_App_Source.Foundation\obj\Debug\net10.0\ref\Rag_Console_App_Source.Foundation.dll
